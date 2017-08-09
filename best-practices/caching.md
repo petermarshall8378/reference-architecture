@@ -13,7 +13,7 @@ The negative side-effects are currently being monitored in Prime (particularly p
 ## How
 
 In RA, team Nutella has implemented the solution:
-```php
+```js
 // set headers to prevent browser caching  
 res.set('Cache-Control', 'no-cache, max-age=0, must-revalidate, no-store');
 ```
