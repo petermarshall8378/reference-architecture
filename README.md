@@ -1,5 +1,5 @@
-<h1>Reference Architecture Wiki <img align="right" height="50" src="logo.png"/></h1>
-
+![Reference Architecture Wiki Logo](logo.png "Reference Architecture Wiki")
+---
 > **Note**: This is a work in progress, you are welcome to contribute and suggest changes, please follow the [contribution guidelines](.github/CONTRIBUTING.md)
 
 ## Why
@@ -81,6 +81,11 @@ _TBD_
 - [Unit testing](testing/unit.md)
 - [End to End testing](testing/e2e.md)
 - [Security testing](testing/security.md)
+- [Visual regression testing](testing/visual-regression.md)
+- [Accessibility testing](testing/accessibility.md)
+- [Load testing](testing/load.md)
+- [SEO testing](testing/seo.md)
+- [Analytics testing](testing/analytics.md)
 - [Consumer driven contract testing](testing/consumer_driven_contracts.md)
 
 ### Delivery
