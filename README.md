@@ -65,10 +65,9 @@ _TBD_
 - [ESLint](development/eslint.md)
 - [stylelint](development/stylelint.md)
 
+#### Best Practices
 
-#### Migration from Prime to RA
-
-- [Concerns caching user data](migration/caching.md)
+- [Caching user data](best-practices/caching.md)
 
 ### API Platform
 
