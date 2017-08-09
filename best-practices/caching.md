@@ -8,8 +8,6 @@ Originating from VOC, there was an issue regarding users’ my-account data stil
 
 The bottom-line is that the user should not see their private information after logging out should they click on the “Back” button of their browser. A solution is currently live (see details below).
 
-The negative side-effects are currently being monitored in Prime (particularly performance). 
-
 ## How
 
 In RA, team Nutella has implemented the solution:
